@@ -12,6 +12,10 @@ To run the script, download and execute Twitter to Discord.exe.
 Download it in [releases tab](https://github.com/YuriyAvengeR/Twitter-to-Discord/releases).
 After that, a white square will appear in the system tray, indicating that the script is active. To close it, right-click and choose 'Close.'
 
+> [!WARNING]
+> Windows may notify you that it has protected your PC when running my .exe file due to it being [created through pyinstaller](https://www.reddit.com/r/learnpython/comments/e99bhe/why_does_pyinstaller_trigger_windows_defender/).
+> You can click 'More Info' - 'Run anyway' to proceed. Alternatively, check the option below.
+
 > [!CAUTION]
 > If you consider running my .exe file unsafe, you can create it yourself.
 
