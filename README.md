@@ -4,7 +4,7 @@
 Just run the program, and it will work in the tray, converting links from Twitter through the proxy into Discord-friendly links with previews.
 The program only responds to links from Twitter, preventing phantom triggers.
 
-![Example](https://raw.githubusercontent.com/YuriyAvengeR/Twitter-to-Discord/master/images/example.png?token=GHSAT0AAAAAACLTKDD3IJT2DZPFLEXJFG4SZL23V2A)
+![Example](https://raw.githubusercontent.com/YuriyAvengeR/Twitter-to-Discord/master/images/example.png)
 
 🍉 **HOW TO USE**
 
