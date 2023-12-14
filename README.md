@@ -9,7 +9,7 @@ The program only responds to links from Twitter, preventing phantom triggers.
 🍉 **HOW TO USE**
 
 To run the script, download and execute Twitter to Discord.exe. 
-Download it in [releases tab](https://github.com/YuriyAvengeR/Twitter-to-Discord/releases/tag/1.0)
+Download it in [releases tab](https://github.com/YuriyAvengeR/Twitter-to-Discord/releases).
 After that, a white square will appear in the system tray, indicating that the script is active. To close it, right-click and choose 'Close.'
 
 > [!CAUTION]
