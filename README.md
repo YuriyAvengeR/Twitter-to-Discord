@@ -12,13 +12,17 @@ Download it in [releases tab]([Releases](https://github.com/YuriyAvengeR/Twitter
 After that, a white square will appear in the system tray, indicating that the script is active. To close it, right-click and choose 'Close.'
 
 🍋 **If you prefer not to run my .exe file**
-If you consider running my .exe file unsafe, you can create it yourself. 
-1. Clone my repository and install the libraries from the requirement.txt file if your IDE didn't do it during cloning. 
-2. Enter the following command in the terminal:
+> [!CAUTION]
+> If you consider running my .exe file unsafe, you can create it yourself. .
+
+Clone my repository and install the libraries from the requirement.txt file if your IDE didn't do it during cloning. 
+
+Enter the following command in the terminal:
 _pyinstaller --noconfirm --onefile --windowed --name "Twitter to Discord" "path to python file "tray_version.py"_ 
-Where path to python file is the path to the tray_version.py file. 
+Where path to python tray_version.py file. 
+
 For example: _pyinstaller --noconfirm --onefile --windowed --name "Twitter to Discord" "F:/Twittertodiscordl/tray_version.py"_
-3. Wait for the creation of the .exe file based on my script, which you can inspect for malicious code before use. After completion, your .exe file will be in the project directory in the 'dist' folder."
+Wait for the creation of the .exe file based on my script, which you can inspect for malicious code before use. After completion, your .exe file will be in the project directory in the 'dist' folder."
 
 🥕 There is also a version available in the form of a terminal. Install the libraries corresponding to requirements.txt in your system and download the files 'Terminal.bat' and 'terminal_version.py.' 
 Afterward, run 'Terminal.bat.
