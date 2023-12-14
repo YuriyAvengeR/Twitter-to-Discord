@@ -18,9 +18,14 @@ After that, a white square will appear in the system tray, indicating that the s
 - Clone my repository and install the libraries from the requirements.txt file.
 
 - Enter the following command in the terminal:
-_pyinstaller --noconfirm --onefile --windowed --name "Twitter to Discord" "path to python file "tray_version.py"_ 
+  
+_pyinstaller --noconfirm --onefile --windowed --name "Twitter to Discord" "path to python file "tray_version.py"_
+
 Where the path to the python tray_version.py file. 
-For example: _pyinstaller --noconfirm --onefile --windowed --name "Twitter to Discord" "F:/Twittertodiscordl/tray_version.py"_
+
+For example: 
+
+_pyinstaller --noconfirm --onefile --windowed --name "Twitter to Discord" "F:/Twittertodiscordl/tray_version.py"_
 
 - Please wait for the creation of the .exe file based on my script, which you can inspect for malicious code before use. After completion, your .exe file will be in the project directory in the 'dist' folder."
 
