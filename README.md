@@ -5,6 +5,7 @@ Just run the program, and it will work in the tray, converting links from Twitte
 The program only responds to links from Twitter, preventing phantom triggers.
 
 ![Example](https://raw.githubusercontent.com/YuriyAvengeR/Twitter-to-Discord/master/images/example.png)
+![Example](https://github.com/YuriyAvengeR/Twitter-to-Discord/blob/master/images/TwitterDiscord720p.gif)
 
 🍉 **HOW TO USE**
 
