@@ -11,9 +11,8 @@ To run the script, download and execute Twitter to Discord.exe.
 Download it in [releases tab]([Releases](https://github.com/YuriyAvengeR/Twitter-to-Discord/releases/tag/1.0))
 After that, a white square will appear in the system tray, indicating that the script is active. To close it, right-click and choose 'Close.'
 
-🍋 **If you prefer not to run my .exe file**
 > [!CAUTION]
-> If you consider running my .exe file unsafe, you can create it yourself. .
+> If you consider running my .exe file unsafe, you can create it yourself.
 
 Clone my repository and install the libraries from the requirement.txt file if your IDE didn't do it during cloning. 
 
