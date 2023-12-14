@@ -14,7 +14,7 @@ def on_clipboard_change():
     if new_text.startswith("https://x.com"):
         link = f"{extend}{new_text[10:]}"
     if new_text.startswith("https://twitter.com"):
-        link = f"{extend}{new_text[10:]}"
+        link = f"{extend}{new_text[16:]}"
     else:
         pass
 

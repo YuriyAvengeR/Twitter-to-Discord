@@ -23,8 +23,15 @@ def on_clipboard_change(icon, item):
     global link
     new_text = pyperclip.paste()
 
-    if new_text.startswith("https://x.com") or new_text.startswith("https://twitter.com"):
+    if new_text.startswith("https://x.com"):
         link = f"{extend}{new_text[10:]}"
+    if new_text.startswith("https://twitter.com"):
+        link = f"{extend}{new_text[16:]}"
+        print(link)
+    else:
+        pass
+
+    if new_text.startswith("https://x.com") or new_text.startswith("https://twitter.com"):
         copied_text = new_text
         pyperclip.copy(link)
 
