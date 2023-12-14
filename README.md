@@ -14,7 +14,7 @@ After that, a white square will appear in the system tray, indicating that the s
 > [!CAUTION]
 > If you consider running my .exe file unsafe, you can create it yourself.
 
-Clone my repository and install the libraries from the requirement.txt file if your IDE didn't do it during cloning. 
+Clone my repository and install the libraries from the requirements.txt file if your IDE didn't do it during cloning. 
 
 Enter the following command in the terminal:
 _pyinstaller --noconfirm --onefile --windowed --name "Twitter to Discord" "path to python file "tray_version.py"_ 
